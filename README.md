@@ -1,5 +1,7 @@
 ## Olá, eu sou Vitor Gabriel, um amante de programação e tecnologia!
 
+Sou estudante da ETEC, e sempre estou em busca de aprender cada vez mais nessa fascinante area da tecnologia! 
+
 <div style: "display: flex">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitingr&show_icons=true&theme=vue&include_all_commits=true&count_private=true" />
