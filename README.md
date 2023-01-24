@@ -1,4 +1,4 @@
-Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)eu sou Vitor Gabriel
+Olá! Eu sou Vitor Gabriel! 🖐
 =====================================================================================================================================
 
 I'm a student of ETEC, and extremely fascinated how technology and programming can impact on people's lives.
