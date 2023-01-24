@@ -1,8 +1,5 @@
 ## Olá, eu sou Vitor Gabriel, um amante de programação e tecnologia!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
-
 <div style: "display: flex">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitingr&show_icons=true&theme=vue&include_all_commits=true&count_private=true" />
