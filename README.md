@@ -1,4 +1,4 @@
-Hi! My name is Vitor Gabriel! 🖐
+Hi! My name is Vitor! 🖐
 =====================================================================================================================================
 
 I'm a student of ETEC, and extremely fascinated how technology and programming can impact on people's lives.
