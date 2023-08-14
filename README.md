@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Vitor</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitingr&label=Profile%20views&color=0e75b6&style=flat" alt="vitingr" /> </p>
 
-- 🔭 I’m currently working on **WeWoman Job Opportunities**
+* 🌍  I'm based in São Paulo, Brazil
+* 
+* 🖥️  See my portfolio at [Here](http://teste)
+* 
+* ✉️  You can contact me at [vitorgabrielsbo1460@gmail.com](mailto:vitorgabrielsbo1460@gmail.com)
+* 
+* 🚀  I'm currently working on [Everything React (complete React course)](http://pt-br.reactjs.org/)
+* 
+* 🧠  I'm learning React.JS
 
-- 🌱 I’m currently learning **PHP**
-
-- 👨‍💻 All of my projects are available at [https://github.com/vitingr](https://github.com/vitingr)
-
-- 💬 Ask me about **NextJS, React**
-
-- 📫 How to reach me **vitorgabrielsbo1460@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
