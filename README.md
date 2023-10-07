@@ -8,9 +8,9 @@
   
 * ✉️  You can contact me at [vitorgabrielsbo1460@gmail.com](mailto:vitorgabrielsbo1460@gmail.com)
   
-* 🚀  I'm currently working on [Everything React (complete React course)](http://pt-br.reactjs.org/)
+* 🚀  I'm currently working on Cloudify! You can see here: cloudify-platform.vercel.app
   
-* 🧠  I'm learning React.JS
+* 🧠  I'm learning NestJS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
