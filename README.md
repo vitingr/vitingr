@@ -10,7 +10,7 @@
   
 * 🚀  I'm currently working on Cloudify! You can see here: cloudify-platform.vercel.app
   
-* 🧠  I'm learning NestJS
+* 🧠  I'm learning Golang
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
