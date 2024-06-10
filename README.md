@@ -5,9 +5,9 @@
 ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=36465D&logoColor=AAA&style=flat-square&link=)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
+![python](https://img.shields.io/static/v1?logo=scala&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![node](https://img.shields.io/static/v1?logo=node.js&label=&message=node&color=36465D&logoColor=AAA&style=flat-square&link=)
-![nestjs](https://img.shields.io/static/v1?logo=scala&label=&message=nestjs&color=36465D&logoColor=AAA&style=flat-square&link=)
+![nestjs](https://img.shields.io/static/v1?logo=nestjs&label=&message=nestjs&color=36465D&logoColor=AAA&style=flat-square&link=)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
 ![react.js](https://img.shields.io/static/v1?logo=react&label=&message=react&color=36465D&logoColor=AAA&style=flat-square&link=)
