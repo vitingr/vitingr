@@ -21,6 +21,7 @@
 ![tailwind](https://img.shields.io/static/v1?logo=tailwindcss&label=&message=tailwind&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![mongodb](https://img.shields.io/static/v1?logo=mongodb&label=&message=mongodb&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![firebase](https://img.shields.io/static/v1?logo=firebase&label=&message=firebase&color=36465D&logoColor=AAA&style=flat-square&link=)
+![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square&link=)
 
 **Front-end Developer** | Working developing pages, complex components, new features, and solving problems.
 
