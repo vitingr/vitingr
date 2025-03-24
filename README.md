@@ -21,6 +21,4 @@
 
 ----
 
-<a href="https://www.linkedin.com/in/vitor-silva-0ab38a261/">
-  <img align="left" alt="Vitor's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
