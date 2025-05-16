@@ -1,6 +1,6 @@
 ### Hi there, I am Vitor👋
 
-With over 4 years of programming experience, I specialize in Front-end development, I currently study at the Federal Institute of São Paulo. Additionally, I am proficient in backend technologies such as Golang, Node.js, NestJS, Fastify, PostgreSQL, MongoDB, Firebase, Grafana, Docker and Terraform. Today I work as an Web Developer at Tractian.
+I'm specialized in Front-end development, I currently study at the Federal Institute of São Paulo. Additionally, I am proficient in backend technologies such as Golang, Node.js, NestJS, Fastify, PostgreSQL, MongoDB, Firebase, Grafana, Docker and Terraform. Today I work as an Web Developer at Tractian.
 
 <h2> Languages and Tools I use </h2>
 
